@@ -1,7 +1,6 @@
 Pruebas/*
-!Pruebas/Prueba
+!Pruebas/Prueba/**/
+!Pruebas/Prueba/**
 !Pruebas/Prueba/
 !Pruebas/Prueba/*
-!/Pruebas/Prueba
-!/Pruebas/Prueba/
 !/Pruebas/Prueba/*
